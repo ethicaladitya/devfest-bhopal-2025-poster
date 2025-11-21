@@ -277,10 +277,10 @@ const Index = () => {
               </div>
               <div>
                 <h1 className="text-xl font-bold font-display text-foreground">
-                  DevFest Bhopal 2025 - Poster Creator
+                  DevFest Bhopal 2025 🎉 - Poster Creator
                 </h1>
                 <p className="text-sm text-muted-foreground">
-                  Create your personalized poster for Central India's Biggest Developer Festival!
+                  Create your awesome poster and show the world you're attending! 🚀
                 </p>
               </div>
             </div>
